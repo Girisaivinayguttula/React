@@ -1,0 +1,28 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react project",
+  "homepage": "https://github.com/Girisaivinayguttula/React#readme",
+  "bugs": {
+    "url": "https://github.com/Girisaivinayguttula/React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Girisaivinayguttula/React.git"
+  },
+  "license": "ISC",
+  "author": "vinay",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.7.1"
+  }
+}
